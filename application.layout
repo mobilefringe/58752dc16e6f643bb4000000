@@ -271,6 +271,8 @@
                         </label>
                         <div class="fb-page" data-href="https://www.facebook.com/tecumsehmallwindsor/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/tecumsehmallwindsor/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/tecumsehmallwindsor/">Tecumseh Mall</a></blockquote></div>
                     </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
                     <div class="newsletter_box">
                         <form action=http://mobilefringe.createsend.com/t/d/s/ykbc/ method="post" id="subForm">
                             <label for="newsletter_box_id">
@@ -297,26 +299,6 @@
                         <a href="//www.facebook.com/tecumsehmallwindsor" target="_blank">
                             <i class="fa fa-facebook-official social_icon" aria-hidden="true"></i>
                         </a>
-                        <a href="//twitter.com/tecumsehmall" target="_blank">
-                             <i class="fa fa-twitter social_icon" aria-hidden="true"></i>    
-                        </a>
-		                <a href="//www.youtube.com/channel/UCk6W7ocu-tzzFZgw7jMuYfw" target="_blank">
-		                    <i class="fa fa-youtube social_icon" aria-hidden="true"></i>
-	                    </a>
-                        <a href="//www.instagram.com/tecumsehmall" target="_blank">
-                            <i class="fa fa-instagram social_icon" aria-hidden="true"></i>
-                        </a>
-                    </div>
-                </div>
-                
-                <div class="col-sm-6 col-md-4">
-                    <div class="hidden-xs special_box">
-                        <label for="twitter_id">               
-                            <i class="fa fa-twitter social_icon" aria-hidden="true"></i>
-                            TWITTER                
-                        </label>
-                        <a class="twitter-timeline" data-height="372" href="https://twitter.com/tecumsehmall">Tweets by TecumsehMall</a> 
-                        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
                     </div>
                 </div>
         		<div class="col-sm-12 col-md-4">   
@@ -333,64 +315,28 @@
                             </div>
                             <div class="nav_sitemap_item">
                                 <span class="site_map_title">
-                                    <a href="/promotions">PROMOTIONS</a>  
+                                    <a href="/promotions">PROMOTIONS & EVENTS</a>  
                                 </span>                                 
-                            </div>
-                            <div class="nav_sitemap_item">
-                                <span class="site_map_title">
-                                    <a href="/events">EVENTS</a>                                
-                                </span>
-                            </div>
-                            <div class="nav_sitemap_item">
-                                <span class="site_map_title">
-                                    <a href="/pages/tecumseh-customer-service">GUEST SERVICES</a>                                
-                                </span>
-                            </div>
-                            <div class="nav_sitemap_item">
-                                <span class="site_map_title">
-                                    <a href="/jobs">CAREERS</a>
-                                </span>
                             </div>
                             <div class="nav_sitemap_item">
                                 <span class="site_map_title">ABOUT US</span>
                                 <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
                                 <a class="site_map_submenu" href='/hours' target='_self'>Shopping Hours</a>
                                 <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
-                                <a class="site_map_submenu" href='/pages/tecumseh-specialty-leasing' target='_self'>Leasing</a>
+                                <a class="site_map_submenu" href='/pages/northlandmall-in-the-community' target='_self'>In the Community</a>
                                 <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
-                                <a class="site_map_submenu" href='/pages/tecumseh-mall-info' target='_self'>Mall Info</a>
-                                <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
-                                <a class="site_map_submenu" href='/pages/tecumseh-accessibility' target='_self'>Accessibility</a>
-                                <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
-                                <a class="site_map_submenu" href='/pages/tecumseh-contact-us' target='_self'>Contact Us</a>
-                            </div>
-                            <div class="nav_sitemap_item">
-                                <span class="site_map_title">
-                                    <a href="/posts">BLOG</a>
-                                </span>
+                                <a class="site_map_submenu" href='/pages/northlandmall-accessibility' target='_self'>Accessibility</a>
                             </div>
                         </div>
                     </div>
                     <div class="line_break hidden-xs"></div>
-                    <div class="social_links hidden-xs">
-    		            <span>
-    		                <a href="//www.youtube.com/channel/UCk6W7ocu-tzzFZgw7jMuYfw" target="_blank">
-    		                    <i class="fa fa-youtube social_icon" aria-hidden="true"></i>
-		                    </a>
-	                    </span>
-                        <span>
-                            <a href="//www.instagram.com/tecumsehmall/" target="_blank">
-                                <i class="fa fa-instagram social_icon" aria-hidden="true"></i>
-                            </a>
-                        </span>
-                    </div>
                 </div>
                 <div class="line_break hidden-xs"></div>
         	</div>
         </div>
         <div class="footer trim_screen">
             <span>
-                &copy; 2015 Tecumseh Mall | <a href="/pages/tecumseh-privacy-policy" target="_blank">Privacy Policy</a> | Powered By <a href="//www.mallmaverick.com/" target="_blank">Mall Maverick</a>     
+                &copy; 2015 The Northland Mall | <a href="/pages/tecumseh-privacy-policy" target="_blank">Privacy Policy</a> | Powered By <a href="//www.mallmaverick.com/" target="_blank">Mall Maverick</a>     
             </span>
             <a href="//www.20vic.com/" target="_blank">
                 <img ALT="20vic_logo" src="//aberdeenmall.ca/system/site_images/photos/000/000/775/original/20vic_logo.png?1381341465" />
