@@ -297,10 +297,11 @@ legend{
 }
 #site_nav ul{
     position:absolute;
-    top: 40px;
+    top: 50px;
     right: 0;
     margin-left:0px;
     list-style:none;
+    line-height: 18px;
 }
 #site_nav li{    
     width:auto;
