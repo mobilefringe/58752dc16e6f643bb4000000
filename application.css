@@ -312,18 +312,12 @@ legend{
     font-family: futura_condensed;
     height: auto;    
     padding: 3px 12px;
-    font-size:1.4em;
-    font-size: 0.95em\9;
+    font-size: 20.5px;
     border-radius: 5px;
 }
 #site_nav li button.btn_nav:last-child{
     padding-right: 0px;
 }
-
-// #site_nav li button:focus{
-//     border: solid 1px gray; 
-// }
-
 #site_nav ul.dropdown-menu{
     border-radius:0;
     background-color: white;
@@ -332,8 +326,6 @@ legend{
     border: solid 1px gray;
     border-radius: 5px;
 }
-
-
 #site_nav ul.dropdown-menu li{
     width: 100%;
     display: block;
@@ -347,23 +339,18 @@ legend{
 	border-top-color: #DEDEDE; 
 	background-color: #DEDEDE;
 }
-
 .hours_bottom_nav span2{
     width:18%
 }
-
 .bottom_nav{
     padding: 0px;
     padding-top: 15px;
 	border: none; 
 	background-color: #f6f6f6;    
-    
 }
-
 .bottom_nav .container-fluid{
     padding: 0px 15px 15px;
 }
-
 .bottom_nav label{
     color: black;
     font-size:1.5em;
