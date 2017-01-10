@@ -1,0 +1,29 @@
+<div class="flexslider trim_screen">
+    <ul class="slides" id="home_banner">            
+        <script id="home_banner_template" type="x-tmpl-mustache/text">
+            <li>
+                {{#url}}
+                <a class="banner_image_li" href="{{url}}" >
+                {{/url}}
+                    <img src="{{image_url}}" alt="Banner Image"/>
+                </a>
+            </li>
+        </script>                
+    </ul>        
+</div>
+<div class="mobile_page_break"></div>
+
+<script>
+    $(document).ready(function(){
+        function renderAll(){
+            init();
+            var banners = getBanners();
+            renderBanner('#home_banner_template','#home_banner', banners);
+
+            $('.flexslider').flexslider({
+                animation: "slide",
+            });
+        }
+        loadMallData(renderAll);
+    })
+</script>
