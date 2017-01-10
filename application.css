@@ -2028,7 +2028,8 @@ body{
     background-position: 0 129px; 
 }
 .feature_label {
-    
+    background-color: transparent;
+    color: transparent;
 }
 #centre_logo{
     bottom:0px;
