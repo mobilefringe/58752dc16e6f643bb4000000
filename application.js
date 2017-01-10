@@ -221,7 +221,7 @@ function renderJobs(container, template, collection){
             val.store_slug = getStoreDetailsByID(val.jobable_id).slug;
         }
         else{
-            val.store_name = "Tecumseh Mall";
+            val.store_name = "The Northland Mall";
         }
         var show_date = moment(val.show_on_web_date);
         var start = moment(val.start_date).tz(getPropertyTimeZone());
@@ -252,7 +252,7 @@ function renderJobDetails(container, template, collection){
             val.store_name = store_details.name;
         }
         else{
-            val.store_name = "Tecumseh Mall";
+            val.store_name = "The Northland Mall";
             
         }
         
@@ -284,7 +284,7 @@ function renderEvents(container, template, collection){
             val.event_image_url = store_details.store_front_url_abs;
         }
         else {
-            val.store_name = "Tecumseh Mall";
+            val.store_name = "The Northland Mall";
             // val.event_image_url = val.event_image_url_abs;
         }
         if(val.event_image_url.indexOf('missing.png') < 0){
@@ -332,7 +332,7 @@ function renderEventDetails(container, template, collection){
             }
         }
         else{
-            val.store_name = "Tecumseh Mall";
+            val.store_name = "The Northland Mall";
             val.image_url = "";
         }
         
@@ -368,7 +368,7 @@ function renderPromotions(container, template, collection){
             val.image_url = store_details.store_front_url_abs;
         }
         else{
-            val.store_name = "Tecumseh Mall";
+            val.store_name = "The Northland Mall";
             // val.image_url = "";
         }
         
@@ -411,7 +411,7 @@ function renderPromoDetails(container, template, collection){
             }
         }
         else{
-            val.store_name = "Tecumseh Mall";
+            val.store_name = "The Northland Mall";
             val.image_url = "";
         }
         
