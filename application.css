@@ -2027,8 +2027,8 @@ body{
     background: url(//www.mallmaverick.com/system/site_images/photos/000/007/119/original/bg.png?1423769190);
     background-position: 0 129px; 
 }
-.feature_label, .long_feature_label {
-    display:none;
+.feature_label {
+    
 }
 #centre_logo{
     bottom:0px;
@@ -2050,7 +2050,9 @@ body{
     padding-bottom: 10px;
     opacity: 0.9;
 }
-
+.long_feature_label {
+    display:none;
+}
 .overlay_text{
     color: #fff;
     background: #000;
