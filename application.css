@@ -1075,10 +1075,11 @@ a.btn-prime {
 }
 
 .flexslider{
-    height: 456px;
+    height: 416px;
     border:none;
     border-radius:0px;
     box-shadow: none;
+    overflow: hidden;
 }
 
 .flexslider .slides img { 
