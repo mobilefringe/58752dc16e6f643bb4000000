@@ -2053,6 +2053,9 @@ body{
     padding-bottom: 10px;
     opacity: 0.9;
 }
+.long_feature_label {
+    display: none;
+}
 .overlay_text{
     color: #fff;
     background: #000;
