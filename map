@@ -22,19 +22,23 @@
             $(".mapper").prepend("<option selected>Select a Store</option>");
 
             
-            $("#map_image").attr("src", getPNGMapURL());
-    		$('#map_image').smoothZoom({
-    			initial_POSITION: "0 0",
-    	    	pan_BUTTONS_SHOW: "NO",
-    	    	zoom_OUT_TO_FIT: "NO",
-    	     	button_SIZE: 34,
-    	        button_ALIGN: "top right",    
-    	     	container: 'zoom_container_directory',
-    	     	responsive: true,
-    	     	responsive_maintain_ratio: false,
-    	     	zoom_MAX: 300,
-    	     	zoom_MIN: 0
-    		});
+            $("#map_image").attr("src", getPNGMapURL())
+        		$('#map_image').smoothZoom({
+        		    width: 754,
+                    height: 500,
+        		    initial_ZOOM: 0,
+        			zoom_MIN: 0,
+        			zoom_MAX: 250,
+        			responsive: true,
+        		    responsive_maintain_ratio: true,
+        			zoom_BUTTONS_SHOW : 'YES',
+        			pan_BUTTONS_SHOW : 'NO',
+        			pan_LIMIT_BOUNDARY : 'NO',
+        			button_SIZE: 34,
+        			button_ALIGN: "top right",
+        			zoom_OUT_TO_FIT: "NO",
+        			container: 'zoom_container'
+        		});
         	show_png_pin(".mapper", "#map_image");
         }
         loadMallDataCached(renderAll);
