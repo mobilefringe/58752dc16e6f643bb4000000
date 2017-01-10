@@ -6,7 +6,7 @@
         </script>
 	</select>
 	<div id="parent_div">
-		<div id="zoom_container"  >
+		<div id="zoom_container_directory">
 			<img alt="Store Directory Map" id="map_image" src=""/>
 			<div class="landmarks" data-show-at-zoom="100" data-allow-drag="true"></div>
 		</div>
@@ -22,7 +22,7 @@
             $(".mapper").prepend("<option selected>Select a Store</option>");
 
             
-            $("#map_image").attr("src", getPNGMapURL())
+            $("#map_image").attr("src", getPNGMapURL());
     		$('#map_image').smoothZoom({
     			initial_POSITION: "0 0",
     	    	pan_BUTTONS_SHOW: "NO",
