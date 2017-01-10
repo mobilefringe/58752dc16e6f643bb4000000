@@ -1589,14 +1589,6 @@ td.stores_pin{
 .mobile_header li button{
     background-color: transparent;
 }
-
-// #mobile_logo{
-//     position:absolute;
-//     top:0px;
-//     left: 10px;
-//     z-index: 999;
-// }
-
 .mobile_header button{
     background-color: transparent;
     padding:0; 
@@ -1802,7 +1794,8 @@ td.stores_pin{
     }
     .mobile_logo {
         position: absolute;
-        left: 10px;
+        top: 25px;
+        left: 15px;
         max-width: 50%;
     }
     .feature_links {
