@@ -2041,6 +2041,9 @@ body{
 .mobile_header .background_bar{
     background-color: black;
 }
+.tab-content {
+    background: #fff;
+}
 .stores_table_headers{
     background-color: black;
 }
