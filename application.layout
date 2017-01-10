@@ -160,22 +160,14 @@
                                 <a class="nav_a" href='/stores' target='_self'><span>Store Directory</span></a>                                
                             </li>
                             <li>
-                                <a class="nav_a" href='/map' target='_self'><span>Shopping Map</span></a>                                
+                                <a class="nav_a" href='/map' target='_self'><span>Centre Map</span></a>                                
                             </li>
                         </ul>
                     </li>               
                     <li>                        
-                        <button class="btn-nav" onclick="window.location.href='/promotions'">PROMOTIONS</button>
+                        <button class="btn-nav" onclick="window.location.href='/promotions'">PROMOTIONS & EVENTS</button>
                     </li>
-                    <li>                        
-                        <button class="btn-nav" onclick="window.location.href='/events'">EVENTS</button>
-                    </li>
-                    <li>                        
-                        <button class="btn-nav" onclick="window.location.href='/pages/tecumseh-customer-service'">GUEST SERVICES</button>
-                    </li>            
-                    <li>                        
-                        <button class="btn-nav" onclick="window.location.href='/jobs'">CAREERS</button>
-                    </li>             
+                             
                     <li class="dropdown ">
                         <button class="btn-nav" data-toggle="dropdown">ABOUT US</button>                                                     
                         <ul class="dropdown-menu" style="right:0px; left:auto;">                            
@@ -183,21 +175,12 @@
                                 <a class="nav_a" href='/hours' target='_self'><span>Shopping Hours</span></a>                                
                             </li>
                             <li>
-                                <a class="nav_a" href='/pages/tecumseh-specialty-leasing' target='_self'><span>Leasing</span></a>                                
+                                <a class="nav_a" href='/pages/northlandmall-in-the-community' target='_self'><span>In the Community</span></a>  
                             </li>
                             <li>
-                                <a class="nav_a" href='/pages/tecumseh-mall-info' target='_self'><span>Mall Info</span></a>                              
-                            </li>
-                            <li>
-                                <a class="nav_a" href='/pages/tecumseh-accessibility' target='_self'><span>Accessibility</span></a>                      
-                            </li>
-                            <li>
-                                <a class="nav_a" href='/pages/tecumseh-contact-us' target='_self'><span>Contact Us</span></a>                            
+                                <a class="nav_a" href='/pages/northlandmall-accessibility' target='_self'><span>Accessibility</span></a>        
                             </li>
                         </ul>
-                    </li>
-                    <li>                        
-                        <button class="btn-nav" onclick="window.location.href='/posts'">BLOG</button>
                     </li>
                 </ul>
                 <hr>
