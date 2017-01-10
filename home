@@ -17,6 +17,7 @@
         <span>Welcome to the new Northland Mall servicing London Ontario - Community to Community</span>    
     </div>
 </div>
+<div class="mobile_line_break"></div>
 <script>
     $(document).ready(function(){
         function renderAll(){
