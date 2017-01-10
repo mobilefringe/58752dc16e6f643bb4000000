@@ -1663,6 +1663,9 @@ td.stores_pin{
     .header{
         height: 80px;
     }
+    #site_nav {
+        height: 20px;
+    }
     #centre_logo {
         bottom: 0;
     }
