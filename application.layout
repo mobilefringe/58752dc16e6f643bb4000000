@@ -263,7 +263,7 @@
                 </div>
                 <div class="col-sm-6 col-md-4">
                     <div class="newsletter_box">
-                        <form action=http://mobilefringe.createsend.com/t/d/s/ykbc/ method="post" id="subForm">
+                        <form action=http://mobilefringe.createsend.com/t/d/s/tujykl/ method="post" id="subForm">
                             <label for="newsletter_box_id">
                                 <i class="fa fa-envelope social_icon" aria-hidden="true"></i>
                                 SUBSCRIBE AND GET UPDATES
@@ -275,8 +275,7 @@
                             <input id="fieldEmail" name=cm-ykbc-ykbc type="email" required placeholder="Your Email" />  
                             <span>
                                 <label style="display:none" for="agree_terms">Subscribe</label>
-                                    <input type="checkbox" class="info_check" id="agree_terms" /> I agree to receive newsletters from Tecumseh Mall
-                                
+                                    <input type="checkbox" class="info_check" id="agree_terms" /> I agree to receive newsletters from The Northland Mall
                             </span>
             				<br />						
                             <button class="btn"/>Subscribe</button>                      
