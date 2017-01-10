@@ -11,7 +11,7 @@
         </script>                
     </ul>        
 </div>
-<div class="mobile_page_break"></div>
+<div class="mobile_line_break"></div>
 
 <script>
     $(document).ready(function(){
