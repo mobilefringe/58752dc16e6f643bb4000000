@@ -210,9 +210,9 @@
                             </div>
                             <div class="home_hours_info">
                                 <span class="hour_title">Call</span>
-                                <span class="hour_info hidden-xs">(519) 944-7760</span>
+                                <span class="hour_info hidden-xs">519-453-6840</span>
                                 <span class="hour_info visible-xs-inline-block">
-                                    <a href="tel:306-525-1301">(519) 944-7760</a>    
+                                    <a href="tel:519-453-6840">519-453-6840</a>    
                                 </span>
                             </div>
                             <a href="/hours" class="check_hours">Check Holiday Hours</a>
