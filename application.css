@@ -732,11 +732,6 @@ a.btn-nav {
 .btn-nav:hover,.btn-nav:focus,.btn-nav:active  {
     background-image:url(PRIMARY_NAV_SELECTED_IMAGE);
 }
-
-.btn-nav a span {
-    
-}
-
 #centre_logo{
     float: left;
     height: auto;
@@ -748,15 +743,11 @@ a.btn-nav {
 #centre_logo img {
     max-width: 95%;
 }
-
 .line_break{
     clear:both;
     height: 30px;
 }
-
-/*
-  Button Prime
-*/
+/* Button Prime */
 a.btn-prime {
   background-color: #b4b4b4;
   color:#FFFFFF;
@@ -765,43 +756,31 @@ a.btn-prime {
   padding-left:25px;
   margin-bottom: 10px;
 }
-
 .nav-bar{
    background-image:url(PRIMARY_NAV_IMAGE);
 }
-
 .alphabet_bg{
     background-color:white;
     border-bottom: 2px solid #000000;
     margin-bottom: 3px;
-    // display: flex;
-    // justify-content: space-between;
 }
-
 .alphabet_bg .btn-secondary {
     padding: 0 0.45%;
 }
-
 .btn-prime:hover,.btn-prime:focus,.btn-prime:active,.btn-secondary:hover,.btn-secondary:focus,.btn-secondary:active  {
 	background-color:white;
     background-image:url(PRIMARY_NAV_SELECTED_IMAGE);
 }
-
 .btn-secondary {
     background-color: transparent;
-    // background-image:url("//www.mallmaverick.com/primary_nav_images/original/missing.png");
     color: #000;
     font-family: inherit;
     margin: 2px;
-    // border-radius: 4px;
     height: 36px;
     border: none;
-    // background-repeat: repeat-x;
-    // background-size: 100% 100%;
     font-size: 14pt;
     font-weight: bold;
 }
-
 .btn-social {
   color:#616161;
   background-image:url(SECONDARY_BUTTON_IMAGE);
@@ -809,14 +788,10 @@ a.btn-prime {
   -webkit-box-shadow: -1px 1px 2px 0px #1D1D1D;
    box-shadow: -1px 1px 2px 0px #1D1D1D;
 }
-
 .btn-social:hover {
   color:#616161;
   background-image:url(SECONDARY_BUTTON_SELECTED_IMAGE);
 }
-
-
-
 .btn-3{
   color:#616161;
   background-image:url(SECONDARY_BUTTON_IMAGE); 
