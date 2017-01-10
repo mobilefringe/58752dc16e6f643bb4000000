@@ -1076,6 +1076,7 @@ a.btn-prime {
 
 .flexslider{
     height: 416px;
+    background: transparent;
     border:none;
     border-radius:0px;
     box-shadow: none;
