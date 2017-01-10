@@ -1853,6 +1853,7 @@ td.stores_pin{
     .flexslider {
         margin-left: 0;
         margin-right: 0;
+        height: 150px;
     }
     #lightbox {
         margin: 0 auto;
