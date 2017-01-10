@@ -1707,24 +1707,17 @@ td.stores_pin{
         float: right;
         margin-top: 10px;    
     }
-    
     .hour_box{
         width: 65%;
         height: 227px;
     }
-    
-    // .hour_box .feature_label {
-    //     padding: 17px 2% 0;
-    // }
     .hour_box .check_hours {
         padding: 0;
         padding-left: 10px;
     }
-    
     .hour_box p{
         font-size: 2.1em;
     }
-    
     .right_feature_box {
         margin-top: 0px;
         position: absolute;
@@ -1732,7 +1725,6 @@ td.stores_pin{
         right: 15px;
         width: 30%;
     }
-    
     .feature_boxes{
         width: 70%;
     }
@@ -1744,11 +1736,9 @@ td.stores_pin{
         margin-right: -20px;
         height: auto;
     }
-    
     .flexslider .slides img {
         height: auto;
     }
-    
     .long_feature_box{
         float: none;
         width: 100%;
@@ -1965,15 +1955,10 @@ td.stores_pin{
 }
 
 @media (max-width: 800px)  and (-webkit-min-device-pixel-ratio:0) {
-    // .feature_label{
-    //     width: 92%;
-    // }
+
 }
 
 @media (max-width: 640px)  and (-webkit-min-device-pixel-ratio:0) {
-    // .feature_label{
-    //     width: 93%;
-    // }
     .mfp-ready, .mfp-wrap{
         display:none;
     }
@@ -2080,11 +2065,6 @@ body{
 .mobile_header .background_bar{
     background-color: black;
 }
-
-.feature_label{
-    background-color: black;
-}
-
 .stores_table_headers{
     background-color: black;
 }
