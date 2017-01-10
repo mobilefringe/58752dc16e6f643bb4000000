@@ -97,11 +97,11 @@
                             <a href='/hours'>Shopping Hours</a>
                         </li>
                         <li class="mobile_menu_item">
+                          <a href='/pages/northlandmall-in-the-community'>In the Community</a>
+                        </li>
+                        <li class="mobile_menu_item">
                             <a href='/pages/northlandmall-accessibility'>Accessibility</a>
                         </li>        
-                        <li class="mobile_menu_item">
-                          <a href='/pages/northlandmall-contact-us'>Contact Us</a>
-                        </li>
                     </ul>
                     <a id="mobile_logo" href="/">
                         <img class="mobile_logo" ALT="mobile_logo" src="//www.mallmaverick.com/system/sites/logo_images/000/000/072/original/logo.png?1424795702"/>
