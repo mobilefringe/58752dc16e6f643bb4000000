@@ -554,21 +554,22 @@ legend{
     margin: 0 auto;
 }
 
-.welcome_message{    
-    border-top: solid 1px black;
-    border-bottom: solid 1px black;
-    padding: 2px 0px;
-    display: none;
+#welcome_message { 
+	display:none
 }
-
-.welcome_message span{
-    color:black;
-    display: block;
-    border-top: solid 2px black;
-    border-bottom: solid 2px black;
-    font-size: 0.55em;
-    font-weight: lighter;
-    padding: 10px 25px;
+.welcome_message {
+	border-top:solid 1px black;
+	border-bottom:solid 1px black;
+	padding:2px 0px
+}
+.welcome_message span {
+	color:black; 
+	display:block;
+	border-top:solid 2px black;
+	border-bottom:solid 2px black;
+	font-size:13.2px;
+	font-weight:lighter;
+	padding:10px 25px
 }
 
 .stores_table_headers {
