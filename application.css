@@ -1664,7 +1664,7 @@ td.stores_pin{
         height: 80px;
     }
     #centre_logo {
-        top: -80px;
+        bottom: 0;
     }
     .container-fluid{
         padding:0 10px;
@@ -1673,10 +1673,9 @@ td.stores_pin{
         width: 95%;
     }
     #site_nav ul {
-        top: 0;
+        top: -20px;
         right: 20px;
     }
-    
     #site_nav li button{
         padding: 3px 10px;
     }
