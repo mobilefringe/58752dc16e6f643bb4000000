@@ -12,7 +12,7 @@
     </ul>        
 </div>
 <div class="mobile_line_break"></div>
-<div id="welcome_message" class="trim_screen visible-xs-block visible-sm-block">
+<div id="welcome_message" class="visible-xs-block visible-sm-block">
     <div class="welcome_message">
         <span>Welcome to the new Northland Mall servicing London Ontario - Community to Community</span>    
     </div>
