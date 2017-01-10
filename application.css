@@ -300,7 +300,8 @@ legend{
     top: 50px;
     right: 0;
     margin-left:0px;
-    list-style:none;
+    list-style: none;
+    font-size: 13px;
     line-height: 18px;
 }
 #site_nav li{    
