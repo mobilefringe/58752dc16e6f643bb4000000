@@ -2022,215 +2022,76 @@ td.stores_pin{
     margin: -4px 0 0;    
 }
 
-// /* ***Property CSS *** */
-// .brand_nav{
-//     position: relative;
-//     background-color: #3D441E;
-// }
-
-// .btn-nav{
-//     color:  #3D441E; 
-// }
-// .store_details h1{
-//     padding-bottom: 15px;
-//     font-family:futura,futura_medium_light_ie;
-// }
-
-// .store_details h1 a {
-//     text-decoration: none;
-// }
-// .store_details h1.store_page {
-//     padding-top: 10px;
-// }
-
-// .stores_table_headers {
-//     padding-top: 6px;
-//     padding-left: 12px;
-//     height: 36px;
-//     text-align: left;
-//     font-size: 14pt;
-// }
-
-// .controls{
-//     background-color: #4d413e;
-// }
-// .store_desc{
-//     padding: 20px 0px;
-//     clear:both;
-//     font-family: futura_medium_light,futura_medium_light_ie;
-// }
-
-// .store_desc p{
-//     font-family: futura_medium_light,futura_medium_light_ie;  
-//     color: #4c4c4c;    
-// }
-// .hour_title, .check_hours{
-//     color: #000;
-// }
-
-// .hour_info{
-//     color: #808080;    
-// }
-
-
-// #site_nav ul li ul li a:hover {
-//     background: #e5f5fd; 
-// }
-
-// .stores_table_headers .pull-right{
-//     color: #ededed;
-// }
-
-// .stores_table_headers a {
-//     text-decoration: none;
-// }
-// .stores_table_headers .pull-right .arrow-up{
-//     border-bottom-color: #ededed;
-// }
-
-// .store_btn{
-//     background-color:#A89968;   
-// }
-// .store_btn:hover {
-//     text-decoration: none;
-// }
-
-// .blog-post .meta{
-//     padding-left: 30px;
-//     padding-bottom: 10px;
-//     position: absolute;
-//     bottom: 15px;
-//     background-color: #55a773;
-//     background-color: rgba(85, 167, 115, 0.85);
-//     color: #ccecd7;    
-// }
-
-// .bottom_nav .nav_site_map .nav_site_map_link{
-//     overflow: auto\9;
-//     column-count: 2;
-//     text-align: justify;
-//     -moz-column-count: 2;
-//     -moz-column-gap: 1.5em;
-//     -moz-column-rule: none;
-//     -webkit-column-count: 2;
-//     -webkit-column-gap: 1.5em;
-//     -webkit-column-rule: none;
-//     padding-bottom: 0px;
-// }
-
-// .nav_site_map_link{
-//     height: auto;
-// }
-
-// #site_nav ul.dropdown-menu{
-//     border-radius:0;
-//     background-color: white;
-//     top: 43px;
-//     left: 0px;
-//     border: solid 1px gray;
-//     border-radius: 5px;
-//     min-width: 270%;
-//     font-family: verdana, arial, helvetica, sans-serif;
-// }
-
-// .blog-teaser header{
-//     height: 350px;
-// }
-
-// .blog-teaser header img{
-//     max-height: 200px;
-//     max-width: 100%;
-// }
-
-// .blog-teaser .body{
-//     height:249px;
-//     overflow:hidden
-// }
-
-// .brand_nav{
-//     background-color: #000000;
-// }
-// .blogpost h1 a:hover {
-//     text-decoration: none;
-// }
-// .blogpost img {
-//     margin-bottom: 10px;
-//     max-width: 100%;
-// }
-// .blogpost h2 a {
-//     color: inherit;
-//     text-decoration: none;
-// }
-// .blogpost_content{
-//     max-height:120px;
-//     overflow:hidden;
-// }
-
-// .feature_label, .long_feature_label {
-//     background-color: #000000;
-// }
-
-// .btn-nav{
-//     color:#000000;    
-// }
-
-// .stores_table_headers{
-//     background-color: #000000;
-// }
-
-// .controls{
-//     background-color: #000000;
-// }
-
-// #site_nav li button:focus{
-//     background-color: #e5f5fd;
-// }
-
-// #site_nav ul li ul li a:hover
-// {
-//     background: #e5f5fd; 
-// }
-
-
-// .stores_table_headers .pull-right{
-//     color: #ededed;
-// }
-
-// .stores_table_headers .pull-right .arrow-up{
-//     border-bottom-color: #ededed;
-// }
-
-// .store_btn{
-//     background-color: black;
-// }
-
-// .nav_site_map_link {
-//     height: 245px;
-// }
-// a.readmore:hover {
-//     text-decoration: none;
-// }
-// a.readmore:link, a.readmore:visited{
-//     color:#f16200;
-//     display:block;
-//     text-align:right;
-// }
 /* ***PROPERTY CSS*** */
+body{
+    background: url(/system/site_images/photos/000/007/119/original/bg.png?1423769190);
+    background-position: 0 129px; 
+}
+
+
+
+.feature_label{
+    display:none;
+}
+#centre_logo{
+    bottom:0px;
+}
+.feature_label_new {
+    margin: 0px;
+    color: white;
+    padding: 17px 4% 0;
+    background-color: #000;
+    height: 20px;
+    font-family: inherit;
+    font-size: 2em;
+    font-size: 1.3em;
+    position: absolute;
+    left: 0;
+    z-index: 900;
+    width: 92%;
+    bottom: 0px;
+    padding-bottom: 10px;
+    opacity: 0.9;
+}
+.overlay_text{
+    color: #fff;
+    background: #000;
+    padding: 10px 0px;
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    height: 15px;
+    text-align: center;
+}
+
+.header{
+    background-color: transparent;
+}
+
 .brand_nav{
-    background-color: #5099b6;
-    position:relative;
+    background-color: #181C30;
 }
-.promo_date {
-    color: #5099b6;
-    font-family: futura_condensed;
-    font-size: 18pt;
+
+.btn-nav{
+    color:  black; 
 }
-.check_hours {
-    color: #000;
+
+.mobile_header .background_bar{
+    background-color: black;
 }
-.check_hours:hover {
-    color: #000;
+
+.feature_label{
+    background-color: black;
 }
+
+.stores_table_headers{
+    background-color: black;
+}
+
+.controls{
+    background-color: black;
+}
+
 #site_nav li button:focus{
     background-color: #e5f5fd;
 }
@@ -2240,29 +2101,6 @@ td.stores_pin{
     background: #e5f5fd; 
 }
 
-.feature_label, .long_feature_label {
-    background-color: #5099b6;
-}
-
-ul.store_tabs{
-    width: auto;
-}
-
-.store_tabs li{
-    width: auto;
-}
-
-ul.store_tabs li a,
-ul.store_tabs li a:hover,
-ul.store_tabs li.active a,
-ul.store_tabs li.active a:hover{
-    background-color: #5099b6;
-}
-
-.stores_table_headers{
-    background-color: #5099b6;
-}
-
 .stores_table_headers .pull-right{
     color: #ededed;
 }
@@ -2270,39 +2108,9 @@ ul.store_tabs li.active a:hover{
 .stores_table_headers .pull-right .arrow-up{
     border-bottom-color: #ededed;
 }
-.store_btn {
-    background-color: #5099b6;    
-}
-.controls{
-    background-color: #5099b6;
-}
 
-.mobile_header .background_bar{
-    background-color: #5099b6;
-}
-.blogpost h1 a:hover {
-    text-decoration: none;
-}
-.blogpost img {
-    margin-bottom: 10px;
-    max-width: 100%;
-}
-.blogpost .back_to img {
-    margin-bottom: 0;
-}
-.blogpost h2 a {
-    color: inherit;
-    text-decoration: none;
-}
-.blogpost_content{
-    max-height:120px;
-    overflow:hidden;
-}
-.blog_preview p.preview_text, .blogpost_content{
-    max-height: 75px;
-    overflow: hidden;
-    text-overflow-multiline: ellipsis;
-    position: relative;
+.store_btn{
+    background-color:#3cb0b7;   
 }
 .social_icon {
     color: #5099b6;
