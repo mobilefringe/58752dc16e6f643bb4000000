@@ -88,17 +88,8 @@
                             <a href='/map'>Shopping Map</a>
                         </li>
                         <li class="mobile_menu_header" >
-                            <a href='/promotions' >PROMOTIONS</a>
+                            <a href='/promotions' >PROMOTIONS & EVENTS</a>
                         </li>
-                        <li class="mobile_menu_header" >
-                            <a href='/events' >EVENTS</a>
-                        </li>
-                        <li class="mobile_menu_header" >
-                            <a href='/pages/tecumseh-customer-service' >GUEST SERVICES</a>
-                        </li>      
-                        <li class="mobile_menu_header" >
-                            <a href='/jobs' >CAREERS</a>
-                        </li>         
                         <li class="mobile_menu_header" >
                             <a href='' >ABOUT US</a>
                         </li>
@@ -106,20 +97,11 @@
                             <a href='/hours'>Shopping Hours</a>
                         </li>
                         <li class="mobile_menu_item">
-                            <a href='/pages/tecumseh-specialty-leasing'>Leasing</a>
-                        </li>
-                        <li class="mobile_menu_item">
-                            <a href='/pages/tecumseh-mall-info'>Mall Info</a>
-                        </li>
-                        <li class="mobile_menu_item">
-                            <a href='/pages/tecumseh-accessibility'>Accessibility</a>
+                            <a href='/pages/northlandmall-accessibility'>Accessibility</a>
                         </li>        
                         <li class="mobile_menu_item">
-                          <a href='/pages/tecumseh-contact-us'>Contact Us</a>
+                          <a href='/pages/northlandmall-contact-us'>Contact Us</a>
                         </li>
-                        <li class="mobile_menu_header" >
-                            <a href='/posts' >BLOG</a>
-                        </li> 
                     </ul>
                     <a id="mobile_logo" href="/">
                         <img class="mobile_logo" ALT="mobile_logo" src="//www.mallmaverick.com/system/sites/logo_images/000/000/072/original/logo.png?1424795702"/>
