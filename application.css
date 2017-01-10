@@ -765,7 +765,7 @@ a.btn-prime {
     margin-bottom: 3px;
 }
 .alphabet_bg .btn-secondary {
-    padding: 0 0.45%;
+    padding: 0 0.4%;
 }
 .btn-prime:hover,.btn-prime:focus,.btn-prime:active,.btn-secondary:hover,.btn-secondary:focus,.btn-secondary:active  {
 	background-color:white;
