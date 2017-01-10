@@ -156,8 +156,8 @@
             $("#map_image").attr("src", getPNGMapURL());
     		$('.demo1').craftmap({
                 image: {
-        			width: 840,
-    				height: 700,
+        			width: 1200,
+    				height: 669,
     				name: 'imgMap'
     			},
     			map: {
