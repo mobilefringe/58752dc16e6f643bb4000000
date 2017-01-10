@@ -37,7 +37,7 @@
         			button_SIZE: 34,
         			button_ALIGN: "top right",
         			zoom_OUT_TO_FIT: "NO",
-        			container: 'zoom_container'
+        			container: 'zoom_container_directory'
         		});
         	show_png_pin(".mapper", "#map_image");
         }
