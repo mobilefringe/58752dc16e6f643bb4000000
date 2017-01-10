@@ -1405,19 +1405,49 @@ hr{
     background-color: #ffffff;
     border: 1px solid #cccccc;
 }
-#zoom_container .landmarks {
-    position: absolute;
-    z-index: 10;
-    top: 0px;
-    left: 0px;
-    font-family: Helvetica, Arial, Verdana;
-    font-size: 12px;
-    color: #ffffff;
-    text-align: center;
+.smooth_zoom_preloader {
+	background-image: url(assets/preloader.gif);
+}	
+.smooth_zoom_icons {
+	background-image: url(assets/icons.png);
 }
-#zoom_container .landmarks .mark {
+#zoom_container_directory .landmarks{
+	position:absolute;
+	z-index: 10;	
+	top: 0px;
+	left: 0px;
+	font-family: Helvetica, Arial, Verdana;
+	font-size: 12px;
+	color: #ffffff;
+	text-align: center;
+}	
+#zoom_container_directory .landmarks .item {
+	position:absolute;		
+	text-align:center;		
+	display: none;	
+}	
+#zoom_container_directory .landmarks .lable div {
+	width: 100px;
+	padding: 4px;		
+}	
+#zoom_container_directory .landmarks .mark .text{
+	background-color:#000000;
+	padding:2px 6px;
+}
+#map_image{
+	width:800px;
+	height: 852px;
+	min-width:800px;
+	min-height: 852px;
+}
+#parent_div{
+	height: 500px;
+	margin-bottom: 20px;
+}
+.mark {
     background-color: transparent;
 }
+
 #zoom_container .landmarks .mark .text {
     margin-bottom: 5px;
     padding: 2px 6px;
@@ -1425,6 +1455,7 @@ hr{
     border-radius: 4px;
     text-align: center;
 }
+
 #store_table{
     background-color: #e0dac4; 
     opacity: 1;
