@@ -2039,6 +2039,12 @@ body{
 .long_feature_label {
     display:none;
 }
+.check_hours {
+    color: #000;
+}
+.check_hours:hover {
+    color: #000;
+}
 .overlay_text{
     color: #fff;
     background: #000;
@@ -2049,26 +2055,21 @@ body{
     height: 15px;
     text-align: center;
 }
-
 .header{
     background-color: transparent;
 }
-
 .brand_nav{
     background-color: #181C30;
 }
-
 .btn-nav{
     color:  black; 
 }
-
 .mobile_header .background_bar{
     background-color: black;
 }
 .stores_table_headers{
     background-color: black;
 }
-
 .controls{
     background-color: black;
 }
