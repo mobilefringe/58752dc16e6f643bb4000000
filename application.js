@@ -9,8 +9,6 @@ function init() {
         }
     });  
     
-
-
     renderHomeHours();
     
     var pathArray = window.location.pathname;
