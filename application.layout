@@ -272,7 +272,7 @@
                                 Subscribe to our newsletter and get exclusive deals you won't find anywhere else straight to your inbox!
                             </span>
                             <label for="fieldEmail" style="display:none"> subscribe email </label>
-                            <input id="fieldEmail" name=cm-ykbc-ykbc type="email" required placeholder="Your Email" />  
+                            <input id="fieldEmail" name=cm-tujykl-tujykl type="email" required placeholder="Your Email" />  
                             <span>
                                 <label style="display:none" for="agree_terms">Subscribe</label>
                                     <input type="checkbox" class="info_check" id="agree_terms" /> I agree to receive newsletters from The Northland Mall
