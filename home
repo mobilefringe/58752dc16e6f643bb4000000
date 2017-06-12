@@ -14,20 +14,20 @@
 <div class="mobile_line_break"></div>
 
 <script>
-    $(document).ready(function(e){
-        init(e)
-        function renderAll(){
-            var banners = getBanners();
-            renderBanner('#home_banner_template','#home_banner', banners);
-            
-            setTimeout(function() {
-                show_content();
-            }, 500);
+$(document).ready(function(e){
+    init(e)
+    function renderAll(){
+        var banners = getBanners();
+        renderBanner('#home_banner_template','#home_banner', banners);
         
-            $('.flexslider').flexslider({
-                animation: "slide",
-            });
-        }
-        loadMallData(renderAll);
-    })
+        setTimeout(function() {
+            show_content();
+        }, 500);
+    
+        $('.flexslider').flexslider({
+            animation: "slide",
+        });
+    }
+    loadMallData(renderAll);
+})
 </script>
