@@ -1453,10 +1453,10 @@ hr{
     border-radius: 0;
     margin: 5px;
     height: auto;
-    background: url(/system/site_images/photos/000/000/773/original/arrow_down.png?1381269994) no-repeat scroll 95% 40% / 14px 10px white;
+    background: url(//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1497038985000/arrow_down.png) no-repeat scroll 95% 40% / 14px 10px white;
 }
 .controls a:hover{
-    background: url(/system/site_images/photos/000/000/773/original/arrow_down.png?1381269994) no-repeat scroll 95% 40% / 14px 10px white;
+    background: url(//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1497038985000/arrow_down.png) no-repeat scroll 95% 40% / 14px 10px white;
 }
 .mapper {
     margin-top: 32px;
