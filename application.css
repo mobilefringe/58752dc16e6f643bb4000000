@@ -245,7 +245,7 @@ a:hover {
 
 
 .content_area{
-    background-image:url(BACKGROUND_IMAGE);
+    // background-image:url(BACKGROUND_IMAGE);
     background-color: #D6D6D6;
 }
 
@@ -791,7 +791,7 @@ a.btn-nav {
     color:white;    
 }
 .btn-nav:hover,.btn-nav:focus,.btn-nav:active  {
-    background-image:url(PRIMARY_NAV_SELECTED_IMAGE);
+    // background-image:url(PRIMARY_NAV_SELECTED_IMAGE);
 }
 #centre_logo{
     float: left;
@@ -818,7 +818,7 @@ a.btn-prime {
   margin-bottom: 10px;
 }
 .nav-bar{
-   background-image:url(PRIMARY_NAV_IMAGE);
+//   background-image:url(PRIMARY_NAV_IMAGE);
 }
 .alphabet_bg{
     background-color:white;
@@ -830,7 +830,7 @@ a.btn-prime {
 }
 .btn-prime:hover,.btn-prime:focus,.btn-prime:active,.btn-secondary:hover,.btn-secondary:focus,.btn-secondary:active  {
 	background-color:white;
-    background-image:url(PRIMARY_NAV_SELECTED_IMAGE);
+    // background-image:url(PRIMARY_NAV_SELECTED_IMAGE);
 }
 .btn-secondary {
     background-color: transparent;
@@ -844,18 +844,18 @@ a.btn-prime {
 }
 .btn-social {
   color:#616161;
-  background-image:url(SECONDARY_BUTTON_IMAGE);
+//   background-image:url(SECONDARY_BUTTON_IMAGE);
    -moz-box-shadow: -1px 1px 2px 0px #1D1D1D;
   -webkit-box-shadow: -1px 1px 2px 0px #1D1D1D;
    box-shadow: -1px 1px 2px 0px #1D1D1D;
 }
 .btn-social:hover {
   color:#616161;
-  background-image:url(SECONDARY_BUTTON_SELECTED_IMAGE);
+//   background-image:url(SECONDARY_BUTTON_SELECTED_IMAGE);
 }
 .btn-3{
   color:#616161;
-  background-image:url(SECONDARY_BUTTON_IMAGE); 
+//   background-image:url(SECONDARY_BUTTON_IMAGE); 
    -moz-box-shadow: -1px 1px 2px 0px #1D1D1D;
   -webkit-box-shadow: -1px 1px 2px 0px #1D1D1D;
    box-shadow: -1px 1px 2px 0px #1D1D1D; 
@@ -863,7 +863,7 @@ a.btn-prime {
 
 .btn-3:hover{
   color:#616161;
-  background-image:url(SECONDARY_BUTTON_SELECTED_IMAGE);  
+//   background-image:url(SECONDARY_BUTTON_SELECTED_IMAGE);  
 }
 
 .caret{
@@ -891,15 +891,6 @@ a.btn-prime {
     color:#371e17;
     margin-top:-3px;
 }
-
-// .custom_dropdown .dropdown-menu li > a:hover, .dropdown-menu li > a:focus, .dropdown-submenu:hover > a {
-//     background-color: #371e17;
-//     background-image: -moz-linear-gradient(center top , #2A163A, #2A163A);
-//     background-image: -webkit-gradient(linear,center top ,center bottom, from(#2A163A), to(#F07900));
-// 	background-image: -o-linear-gradient(center top, #2A163A,#2A163A);
-//     color: #e0dac4;
-// }
-
 .custom_dropdown .dropdown-menu li > p {
 	color:#000000;
 }
@@ -1166,7 +1157,7 @@ a.btn-prime {
 }
 
 .flex-direction-nav a{
-    background: url(/system/site_images/photos/000/000/098/original/bg_direction_nav.png?1365699774) no-repeat scroll 0 0 transparent;
+    background: url(//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1497039147000/bg_direction_nav.png) no-repeat scroll 0 0 transparent;
     height: 50px;
 }
 
