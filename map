@@ -14,30 +14,32 @@
 </div>
 <div class="mobile_line_break"></div>
 <script>
-    $(document).ready(function(){
-        function renderAll(){
-            init();
-            var stores = getStoresList();
-            renderStoreList('#store_select_container','#store_select_template', stores, "stores");
-            $(".mapper").prepend("<option selected>Select a Store</option>");
+$(document).ready(function(e){
+    init(e);
+    function renderAll(){
+        var stores = getStoresList();
+        renderStoreList('#store_select_container','#store_select_template', stores, "stores");
+        $(".mapper").prepend("<option selected>Select a Store</option>");
 
-            
-            $("#map_image").attr("src", getPNGMapURL())
-    		$('#map_image').smoothZoom({
-    			initial_POSITION: "0 0",
-    	    	pan_BUTTONS_SHOW: "NO",
-    	    	zoom_OUT_TO_FIT: "NO",
-    	     	button_SIZE: 34,
-    	        button_ALIGN: "top right",    
-    	     	container: 'zoom_container_directory',
-    	     	responsive: true,
-    	     	responsive_maintain_ratio: false,
-    	     	zoom_MAX: 300,
-    	     	zoom_MIN: 0
-    
-    		});
-        	show_png_pin(".mapper", "#map_image");
-        }
-        loadMallDataCached(renderAll);
-    })
+        $("#map_image").attr("src", getPNGMapURL())
+		$('#map_image').smoothZoom({
+			initial_POSITION: "0 0",
+	    	pan_BUTTONS_SHOW: "NO",
+	    	zoom_OUT_TO_FIT: "NO",
+	     	button_SIZE: 34,
+	        button_ALIGN: "top right",    
+	     	container: 'zoom_container_directory',
+	     	responsive: true,
+	     	responsive_maintain_ratio: false,
+	     	zoom_MAX: 300,
+	     	zoom_MIN: 0
+		});
+    	show_png_pin(".mapper", "#map_image");
+    	
+    	setTimeout(function() {
+            show_content();
+        }, 500);
+    }
+    loadMallDataCached(renderAll);
+})
 </script>
