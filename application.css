@@ -179,7 +179,7 @@ a:hover {
 }
 
 .top_nav{
-    background-image:url(PRIMARY_NAV_IMAGE);
+    // background-image:url(PRIMARY_NAV_IMAGE);
     height:auto;    
     border: none;
     position:relative;
@@ -217,7 +217,7 @@ a:hover {
     appearance: none;
     line-height:1em;
     background-color: #e0e0e0;
-    background: url(//www.mallmaverick.com/system/site_images/photos/000/000/773/original/arrow_down.png?1381269994) no-repeat 82% 50% #ddd;
+    background: url(//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1497038985000/arrow_down.png) no-repeat 82% 50% #ddd;
     background-size: 14px 10px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
