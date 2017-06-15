@@ -18,14 +18,14 @@
             <div class="row-fluid">
                 <h1 class="store_page">
                     <a href="/stores" class="back_to">
-                        <img src="//www.mallmaverick.com/system/site_images/photos/000/000/769/original/back_btn.png?1381264220" />
+                        <img src="//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1497369767000/back_btn.png" />
                     </a>
                     {{name}} 
                     <a href="#promo" class="pull-right" id="promo">
-                        <img src="//www.mallmaverick.com/system/site_images/photos/000/000/771/original/btn_promo.png?1381264332" />
+                        <img src="//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1497038419000/btn_promo.png" />
                     </a>
                     <a href="#job" class="pull-right" id="job">
-                        <img src="//www.mallmaverick.com/system/site_images/photos/000/000/770/original/btn_job.png?1381264320" />
+                        <img src="//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1497369916000/btn_job.png" />
                     </a> 
                 </h1>
                 <hr>
@@ -78,7 +78,7 @@
                     <div class="accordion-group">
                         <div class="accordion-heading">            
                             <div class="accordion-toggle" data-toggle="collapse" data-parent="#accordion{{id}}" href="#collapse{{id}}">
-                                <img ALT="arrow_down" class="pull-right" src="//mallmaverick.com/system/site_images/photos/000/000/773/original/arrow_down.png?1381269994" />
+                                <img ALT="arrow_down" class="pull-right" src="//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1497038985000/arrow_down.png" />
                                 <h2 class="job_title"><span class="store_name">{{store_name}}</span> - {{name}}</h2>
                                 <h2 class="job_close_date">Closing Date: {{end_date}}</h2>
                             </div>
