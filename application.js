@@ -397,9 +397,16 @@ function renderStoreList(container, template, collection, type){
                 val.alt_store_front_url = getImageURL(val.store_front_url);    
             }
         }
-
+        
+        if(val.categories != null){
+            try {
+                val.cat_list = val.categories.join(',');
+            } catch(err) {
+                console.log(err);
+            }
+        }
+        
         var current_initial = val.name[0];
-        val.cat_list = val.categories.join(',')
         if(store_initial.toLowerCase() == current_initial.toLowerCase()){
             val.initial = "";
             val.show = "display:none;";
@@ -503,11 +510,10 @@ function renderStoreListCatetories(container, template, category_list,stores){
                 var store_category = store.categories;
                 var a = store_category.indexOf(category_id);
             }
-            
             if (a > -1){
                 if (count == 0){
                     store.show  = "display:block"; 
-                }else{
+                } else {
                     store.show  = "display:none"; 
                 }
                 store.header = category_name;
