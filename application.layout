@@ -296,7 +296,7 @@
         </div>
         <div class="footer trim_screen">
             <span>
-                &copy; 2017 The Northland Mall | <a href="/pages/northlandmall-privacy-policy" target="_blank">Privacy Policy</a> | Powered By <a href="//www.mallmaverick.com/" target="_blank">Mall Maverick</a>     
+                &copy; <span id="current_year"></span> The Northland Mall | <a href="/pages/northlandmall-privacy-policy" target="_blank">Privacy Policy</a> | Powered By <a href="//www.mallmaverick.com/" target="_blank">Mall Maverick</a>     
             </span>
             <a href="http://www.cushmanwakefield.ca/en/" target="_blank">
                 <!--<img ALT="20vic_logo" src="//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1495132160000/20vic_logo.png" />-->
