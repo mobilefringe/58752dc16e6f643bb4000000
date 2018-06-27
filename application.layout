@@ -247,10 +247,10 @@
                             <input id="fieldEmail" name=cm-tujykl-tujykl type="email" required placeholder="Your Email" />  
                             <span>
                                 <label style="display:none" for="agree_terms">Subscribe</label>
-                                    <input type="checkbox" class="info_check" id="agree_terms" /> I agree to receive newsletters from The Northland Mall
+                                <input type="checkbox" class="info_check" id="agree_terms" required /> I agree to receive newsletters from The Northland Mall
                             </span>
             				<br />						
-                            <button class="btn"/>Subscribe</button>                      
+                            <button class="btn">Subscribe</button>                      
                             <br />
             				<span id="success_subscribe">Thank you for subscribing to our newsletter.</span>
                         </form>
@@ -299,8 +299,7 @@
                 &copy; <span id="current_year" style="padding:0"></span> The Northland Mall | <a href="/pages/northlandmall-privacy-policy" target="_blank">Privacy Policy</a> | Powered By <a href="//www.mallmaverick.com/" target="_blank">Mall Maverick</a>     
             </span>
             <a href="http://www.cushmanwakefield.ca/en/" target="_blank">
-                <!--<img ALT="20vic_logo" src="//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1495132160000/20vic_logo.png" />-->
-                <img src="//codecloud.cdn.speedyrails.net/sites/59b837256e6f6446315e0000/image/png/1509381758000/CW Logos-_CW_Blackredlogo.png" class="" alt="" style="width:140px;”>
+                <img src="//codecloud.cdn.speedyrails.net/sites/59b837256e6f6446315e0000/image/png/1509381758000/CW Logos-_CW_Blackredlogo.png" class="" alt="" style="width:140px;">
             </a>
         </div>
     </footer>
