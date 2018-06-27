@@ -1,7 +1,7 @@
 <div>
     <h1 class="page_title">Thank You</h1>
     <hr>
-    <p>Thank you! Your subscription has been received.</p>
+    <p>Your subscription has been confirmed. You've been added to our list and will hear from us soon.</p>
 </div>
 <script>
 $(document).ready(function(e){
