@@ -256,7 +256,7 @@
                         </form>
                     </div>
                     <div class="social_links_mobile visible-xs-block">
-                        <a href="//www.facebook.com/TheNorthlandMall" target="_blank">
+                        <a href="//www.facebook.com/TheNorthlandMall" target="_blank" aria-label="Facebook">
                             <i class="fa fa-facebook-official social_icon" aria-hidden="true"></i>
                         </a>
                     </div>
