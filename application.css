@@ -1461,7 +1461,7 @@ hr{
 .controls a:hover{
     background: url(//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1497038985000/arrow_down.png) no-repeat scroll 95% 40% / 14px 10px white;
 }
-.mapper {
+.map {
     margin-top: 32px;
     margin-bottom: 10px;
     width: 220px;
@@ -1534,6 +1534,10 @@ hr{
 }
 td.stores_pin{
     text-align:right;
+}
+
+.store_select_label {
+    display: none;
 }
 /* *** */
 /********* contest form *********/
