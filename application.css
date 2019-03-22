@@ -1532,6 +1532,10 @@ hr{
     top: 34px;
     left: 0px;
 }
+.store_select_label {
+    display: none;
+}
+
 td.stores_pin{
     text-align:right;
 }
