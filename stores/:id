@@ -22,7 +22,7 @@
                     </a>
                     {{name}} 
                     <a href="#promo" class="pull-right hidden_now" id="promo_show">
-                        <img src="//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1497038419000/btn_promo.png" />
+                        <img src="//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1497038419000/btn_promo.png" alt="promo" />
                     </a>
                     <a href="#job" class="pull-right hidden_now" id="job_show">
                         <img src="//codecloud.cdn.speedyrails.net/sites/58752dc16e6f643bb4000000/image/png/1497369916000/btn_job.png" />
