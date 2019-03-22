@@ -1472,6 +1472,11 @@ hr{
     background-color: #ffffff;
     border: 1px solid #cccccc;
 }
+.store_select_label {
+    display: none;
+}
+
+
 .smooth_zoom_preloader {
 	background-image: url(assets/preloader.gif);
 }	
