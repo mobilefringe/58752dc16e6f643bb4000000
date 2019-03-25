@@ -153,7 +153,6 @@
                     <div class="hour_box">  
                         <div class="hour_info">
                             <span class="feature_label">HOURS TODAY</span>
-                            <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
                             <div id="home_hours_container" class="home_hours_info">
                                 <script id="home_hours_template" type="x-tmpl-mustache/text">
                                     {%raw%}
@@ -268,9 +267,7 @@
                         <div class="site_map_cols">
                             <div class="nav_sitemap_item">
                                 <span class="site_map_title">STORES</span>
-                                <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
                                 <a class="site_map_submenu" href='/stores' target='_self'>Store Directory</a>
-                                <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
                                 <a class="site_map_submenu" href='/map' target='_self'>Shopping Map</a>
                             </div>
                             <div class="nav_sitemap_item">
@@ -280,11 +277,8 @@
                             </div>
                             <div class="nav_sitemap_item">
                                 <span class="site_map_title">ABOUT US</span>
-                                <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
                                 <a class="site_map_submenu" href='/hours' target='_self'>Shopping Hours</a>
-                                <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
                                 <a class="site_map_submenu" href='/pages/northlandmall-in-the-community' target='_self'>In the Community</a>
-                                <a class="accessible" href="#main" style="display:none" >[Skip to Content]</a>
                                 <a class="site_map_submenu" href='/pages/northlandmall-accessibility' target='_self'>Accessibility</a>
                             </div>
                         </div>
