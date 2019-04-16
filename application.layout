@@ -220,7 +220,11 @@
         </div>
     </div>
     <div class="line_break"></div>
-
+    <!--<div class="trim_screen">-->
+    <!--        <a id="track_link" href="http://bit.ly/cyclone-idai-cushman-wakefield" target="_blank">-->
+    <!--            <img class="center-block bc_banner" src="//codecloud.cdn.speedyrails.net/sites/5af2ef146e6f6450e9160100/image/png/1554151834429/Idaix2_800x100_en.png" alt=“Humanitarian Campaign”/>-->
+    <!--        </a>-->
+    <!--    </div>-->
     <footer>
         <div class="bottom_nav trim_screen">
         	<div class="row-fluid">
@@ -334,6 +338,11 @@
       js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
+    <script>
+        $("#track_link").click( function() {
+            trackOutboundLink('http://bit.ly/cyclone-idai-cushman-wakefield');
+        });
+    </script>
 </body>
 
 </html>
