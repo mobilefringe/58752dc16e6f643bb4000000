@@ -354,7 +354,7 @@
     }(document, 'script', 'facebook-jssdk'));</script>
     <script>
         $("#track_link").click( function() {
-            trackOutboundLink('http://bit.ly/cyclone-idai-cushman-wakefield');
+            trackOutboundLink('https://www.wires.org.au/');
         });
     </script>
 </body>
